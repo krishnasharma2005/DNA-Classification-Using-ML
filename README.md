@@ -5,7 +5,7 @@
 This project demonstrates the use of **machine learning** to classify DNA promoter sequences. Promoter recognition is critical in genetics for understanding gene regulation and predicting diseases.
 With the growing volume of genetic data, manual classification is no longer feasible. Our approach applies supervised learning algorithms to automate the classification of DNA sequences.
 
-## Key Objectives
+## Key Objectives 
 
 1. Preprocess raw DNA promoter sequences into a machine-readable format.  
 2. Train and compare multiple ML models for classification.  
